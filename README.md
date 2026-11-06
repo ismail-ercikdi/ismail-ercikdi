@@ -5,3 +5,7 @@ Outside of code, you'll find me at the gym or playing football. You can also fin
 Fun Fact:
 
 - I'm also a matcha tester & critic, rating every matcha against my own set of criteria. 🍵
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Mein Koi, jede Nacht neu gezeichnet aus meiner GitHub-Aktivität" />
+</p>
