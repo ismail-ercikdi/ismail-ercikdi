@@ -1,6 +1,6 @@
-<img src="koi/koi.gif" width="256" align="right" alt="My koi, redrawn every night from my GitHub activity" />
-
 # Hi 👋 I'm [Ismail](https://ercikdi.com), an AI & Software Engineer and computer science student at KIT.
+
+<img src="koi/koi.gif" width="256" align="right" alt="My koi, redrawn every night from my GitHub activity" />
 
 Outside of code, you'll find me at the gym or playing football. You can also find me on [LinkedIn](https://www.linkedin.com/in/ismailercikdi).
 
