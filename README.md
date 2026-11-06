@@ -33,7 +33,6 @@ Fun Facts:
 
 [![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/bedrock/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
-[![Jev](https://img.shields.io/badge/Jev_by_TypeSafe_AI-111111?style=for-the-badge&logoColor=white)](https://typesafe.ai)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
 
 **DevOps**
