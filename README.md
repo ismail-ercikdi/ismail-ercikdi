@@ -7,4 +7,4 @@ Outside of code, you'll find me at the gym or playing football. You can also fin
 Fun Facts:
 
 - I'm also a matcha tester & critic, rating every matcha against my own set of criteria. 🍵
-- The koi on the right runs on my GitHub activity. It grows with every contribution, carries my streaks as markings and swims according to how my previous day went. A workflow redraws it every night.
+- The koi on the right runs on my GitHub activity. It grows with every contribution, carries my streaks as markings and swims according to how my previous day went. A workflow redraws it every night
